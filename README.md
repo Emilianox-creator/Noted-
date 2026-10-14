@@ -9,7 +9,7 @@ Noted is a lightweight note-taking app built with React and Vite. Quickly jot do
 - Delete individual notes.
 - Get instant updates while developing with Vite's development server.
 
-> **Note:** Notes are stored in React state only. They are cleared when the page is refreshed or the app is closed. I'm currently working on creating a database and add the functionality.
+> **Note:** Notes are stored in React state only. They are cleared when the page is refreshed or the app is closed. I'm currently working on creating a database and add the functionality to keep and save the notes, and users personalization!
 
 ## Preview
 
